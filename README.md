@@ -1,2 +1,2 @@
 # himansi_portfolio
-Official website of Himansi Fuyal, Created by Rukesh Paude
+Official website of Himansi Fuyal, Created by Rukesh Paudel
